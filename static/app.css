@@ -1,0 +1,27 @@
+body{
+    margin:none;
+    padding:none;
+    border:none;
+}
+
+main{
+    margin:10px;
+}
+.nav {
+    display:block;
+    background-color: black;
+    overflow: hidden;
+    font-size: 18px;
+    color:white;
+}
+
+.nav a {
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+    padding: 16px 16px;
+    background-color: black;
+}
